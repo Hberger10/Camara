@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { DeputadoController } from '../controllers/deputadosController.js';
+import { DeputadoController } from '../controller/deputado.controller.js';
 
 const router = Router();
 

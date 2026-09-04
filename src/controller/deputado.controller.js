@@ -1,4 +1,4 @@
-import { DeputadoService } from '../services/deputadosService.js';
+import { DeputadoService } from '../service/deputado.service.js';
 
 export const DeputadoController = {
   listar: async (req, res, next) => {
